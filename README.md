@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/tsiampos/spuddle/master/resources/logo.png)
+![alt tag](https://raw.githubusercontent.com/donkeyrepos/spuddle/master/resources/logo.png)
 
 # <b>Spuddle - Anonymous Traffic Sender</b>
 
@@ -10,4 +10,4 @@ Send anonymous traffic to your links.
 
 Insert and send your own HTTP headers (referer URLs and cookies).
 
-![alt tag](https://raw.githubusercontent.com/tsiampos/spuddle/master/resources/example.png)
+![alt tag](https://raw.githubusercontent.com/donkeyrepos/spuddle/master/resources/example.png)
